@@ -22,25 +22,23 @@
 
 I'm currently focused on mastering:
 
-- [List any technologies, frameworks, or skills you're currently learning or planning to learn]
+- Artificial Intelligence, Block Chain and Cloud Computing Technologies
 
-### 👨‍💻 Projects
+<!-- ### 👨‍💻 Projects
 
 Here are some projects I'm proud of:
 
-- [Project 1: Brief description, link to the GitHub repo or live demo]
-- [Project 2: Brief description, link to the GitHub repo or live demo]
-- [Project 3: Brief description, link to the GitHub repo or live demo]
+- -->
 
 ### 📫 Let's Connect!
 
 You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website/Blog](https://yourwebsite.com)
+- [Personal Website/Blog](https://jobinjose.in/)
+- [LinkedIn](https://www.linkedin.com/in/jobinjosetech/)
 
-Feel free to reach out to me via email at [youremail@example.com].
+
+Feel free to reach out to me via email at [jobinjose.in@gmail.com].
 
 ### 🤝 Looking for Collaboration?
 
