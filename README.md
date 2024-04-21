@@ -34,11 +34,11 @@ Here are some projects I'm proud of:
 
 You can find me on:
 
-- [Personal Website/Blog](https://jobinjose.in/)
+- [Personal Website](https://jobinjose.in/)
 - [LinkedIn](https://www.linkedin.com/in/jobinjosetech/)
 
 
-Feel free to reach out to me via email at [jobinjose.in@gmail.com].
+Feel free to reach out to me via email at [jobinjose.in@icloud.com].
 
 ### 🤝 Looking for Collaboration?
 
