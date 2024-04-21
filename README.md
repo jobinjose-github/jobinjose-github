@@ -38,7 +38,7 @@ You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/jobinjosetech/)
 
 
-Feel free to reach out to me via email at [jobinjose.in@icloud.com].
+Feel free to reach out to me via email at jobinjose.in@icloud.com.
 
 ### 🤝 Looking for Collaboration?
 
