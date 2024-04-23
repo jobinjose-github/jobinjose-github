@@ -1,3 +1,4 @@
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 # 👋 Hello World! I'm Jobin Jose!
 
 ### 🚀 About Me
@@ -43,4 +44,3 @@ Feel free to reach out to me via email at jobinjose.in@icloud.com.
 ### 🤝 Looking for Collaboration?
 
 I'm open to collaboration on exciting projects. If you have an idea or need help with something, don't hesitate to get in touch!
-
